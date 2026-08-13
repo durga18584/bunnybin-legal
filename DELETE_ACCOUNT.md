@@ -1,6 +1,6 @@
 # Delete Your BunnyBin Account and Data
 
-BunnyBin is developed by **[YOUR DEVELOPER NAME AS SHOWN ON PLAY STORE]**.
+BunnyBin is developed by **OmAiTrix Solutions**.
 This page explains how to request deletion of your account and the data
 associated with it.
 
